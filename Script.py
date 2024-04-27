@@ -202,8 +202,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 <b> Size ⚙️: {file_size}</b>""" 
 
-    IMDB_TEMPLATE_TXT = """
-<b>Hey </b> {message.from_user.mention},  <b>Here is the result for your</b> {query}  
+    IMDB_TEMPLATE_TXT = """<b>Hey </b> {message.from_user.mention},  <b>Here is the result for your</b> {query}  
 <b>🏷 Title:</b> <a href={url}>{title}</a> 
 <b>🎭 Genres: {genres} 
 <b>📆 Year: </b> <a href={url}/releaseinfo>{year}</a> 
