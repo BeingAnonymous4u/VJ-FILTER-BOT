@@ -199,12 +199,12 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : <b>{file_name}</b>
+    CAPTION = """<b><a href='https://t.me/hdhindibackup'>📂Fɪʟᴇɴᴀᴍᴇ : <b>{file_name}</b>
 
-<b> Size ⚙️: {file_size}</b>""" 
+<b> ⚙️ sɪᴢᴇ: {file_size}</b></a>""" 
 
     IMDB_TEMPLATE_TXT = """
-<b>ʜᴇʀᴇ ᴀʀᴇ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ Qᴜᴇʀʏ {qurey}
+<b>ʜᴇʀᴇ ᴀʀᴇ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ Qᴜᴇʀʏ {qurey}..
 
 IMDb Data:
 
