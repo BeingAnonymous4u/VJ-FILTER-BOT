@@ -199,9 +199,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a href='https://t.me/hdhindibackup'>📂Fɪʟᴇɴᴀᴍᴇ : <b>{file_name}</b>
+    CAPTION = """<b><a href='https://t.me/hdhindibackup'>📝File Name: {file_name}</a>
 
-<b> ⚙️ sɪᴢᴇ: {file_size}</b></a>""" 
+ ⚙️ sɪᴢᴇ: {file_size}</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>ʜᴇʀᴇ ᴀʀᴇ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ Qᴜᴇʀʏ {qurey}..
@@ -210,7 +210,7 @@ IMDb Data:
 
 <b>🔮 ᴛɪᴛʟᴇ </b>: <a href={url}>{title}</a>
 🎭 ɢᴇɴʀᴇs: {genres}
-🗓️ ʏᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
+📆 ʏᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
 🏆 ʀᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a> / 10
 </b>"""
     
