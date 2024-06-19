@@ -10,13 +10,12 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>,I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏ
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ 📃Mʏ Nᴀᴍᴇ : <a href=https://t.me/hdhindibackup>ᵗʰᵃˡᵃᵖᵃᵗʰʸ ᶠⁱˡᵗᵉʳ ᵇᵒᵗ 🇮🇳</a>
+    ABOUT_TXT = """<b>‣ 📃Mʏ Nᴀᴍᴇ : <a href=https://t.me/hdhindibackup>ᵗʰᵃˡᵃᵖᵃᵗʰʸ ᶠⁱˡᵗᵉʳ ᵇᵒᵗ 🇮🇳</a>
 ‣ 🕺Bᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
-‣ 👦Cʀᴇᴀᴛᴏʀ : <a href='https://t.me/rolexHxd'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a> 
+‣ 👦Cʀᴇᴀᴛᴏʀ : <a href='https://t.me/rolexHxd'>ɴᴏᴛʜɪɴɢ ʙʀᴏ 🇮🇳</a> 
 ‣ 📚Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ 🗣️Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
-‣ 🍿Dᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
+‣ ♻️Dᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
 ‣ 📡Hᴏsᴛᴇᴅ ᴏɴ :  <a href='https://heroku.com'>Heroku</a> 
 ‣ 🗒️Vᴇʀsɪᴏɴ : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
 
@@ -204,16 +203,16 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
  ⚙️ sɪᴢᴇ: {file_size}</b>""" 
 
     IMDB_TEMPLATE_TXT = """
-<b>ʜᴇʀᴇ ᴀʀᴇ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ Qᴜᴇʀʏ <code>{qurey}</code>
+<b>🗿 Qᴜᴇʀʏ <code>{qurey}</code>
 
 IMDb Data:
 
 <b>🔮 ᴛɪᴛʟᴇ </b>: <a href={url}>{title}</a>
 🎭 ɢᴇɴʀᴇs: {genres}
-📆 ʏᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
-🏆 ʀᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a> / 10
+🗒️ ʏᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
+⭐ ʀᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a> / 10
 
-😎 𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝐁𝐲 : {message.from_user.mention}</b>"""
+🗣️ ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : {message.from_user.mention}</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
