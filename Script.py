@@ -203,7 +203,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
  ⚙️ sɪᴢᴇ: {file_size}</b>""" 
 
     IMDB_TEMPLATE_TXT = """
-<b>🗿 Qᴜᴇʀʏ <code>{qurey}</code>
+<b>Qᴜᴇʀʏ <code>{qurey}</code>
 
 IMDb Data:
 
