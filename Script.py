@@ -209,7 +209,7 @@ IMDb Data:
 
 <b>🔮 ᴛɪᴛʟᴇ </b>: <a href={url}>{title}</a>
 🎭 ɢᴇɴʀᴇs: {genres}
-🗒️ ʏᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
+📆 ʏᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
 ⭐ ʀᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a> / 10
 
 🗣️ ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : {message.from_user.mention}</b>"""
