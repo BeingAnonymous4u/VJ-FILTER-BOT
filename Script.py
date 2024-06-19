@@ -212,7 +212,8 @@ IMDb Data:
 🎭 ɢᴇɴʀᴇs: {genres}
 📆 ʏᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
 🏆 ʀᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a> / 10
-</b>"""
+
+😎 𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝐁𝐲 : {message.from_user.mention}</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
