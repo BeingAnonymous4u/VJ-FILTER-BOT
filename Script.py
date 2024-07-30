@@ -5,7 +5,11 @@
 
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>,I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ Aɴᴅ Eɴᴊᴏʏ🥰</b>"""
+
+ɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏꜰɪʟᴛᴇʀ + ᴍᴀɴᴜᴀʟꜰɪʟᴛᴇʀ + ꜰɪʟᴇsᴛᴏʀᴇ ʙᴏᴛ.
+ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ɢɪᴠᴇ ᴍᴏᴠɪᴇs ᴏʀ sᴇʀɪᴇs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘᴍ !!
+
+ɪᴛ ɪs ᴇᴀsʏ ᴛᴏ ᴜsᴇ ᴍᴇ, ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴍᴀᴋᴇ ᴍᴇ ᴀs ᴀᴅᴍɪɴ</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
@@ -207,12 +211,12 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 IMDb Data:
 
-<b>🔮 ᴛɪᴛʟᴇ </b>: <a href={url}>{title}</a>
+<b>📜 ᴛɪᴛʟᴇ </b>: <a href={url}>{title}</a>
 🎭 ɢᴇɴʀᴇs: {genres}
 📆 ʏᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
-⭐ ʀᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a> / 10
+🌟 ʀᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a> / 10
 
-🗣️ ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : {message.from_user.mention}</b>"""
+👩🏻‍💻 ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : {message.from_user.mention}</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
