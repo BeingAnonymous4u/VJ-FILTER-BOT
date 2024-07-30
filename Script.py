@@ -215,6 +215,7 @@ IMDb Data:
 🎭 ɢᴇɴʀᴇs: {genres}
 📆 ʏᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
 🌟 ʀᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a> / 10
+📀 RunTime: {runtime} Minutes
 
 👩🏻‍💻 ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : {message.from_user.mention}</b>"""
     
