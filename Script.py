@@ -214,9 +214,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
  ⚙️ sɪᴢᴇ: {file_size}</b>""" 
 
     IMDB_TEMPLATE_TXT = """
-<b>👁  Result For: <code>{qurey}</code>
 
-IMDb Data:
+
+<b>👁  Result For: <code>{qurey}</code>
 
 🎬 Name: <a href={url}>{title}</a>
 🎭 Type: {genres}
