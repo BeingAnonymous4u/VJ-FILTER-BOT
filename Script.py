@@ -218,8 +218,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 IMDb Data:
 
-📽️ ᴛɪᴛʟᴇ : <a href={url}>{title}</a>
-🎭 ɢᴇɴʀᴇs: {genres}
+🎬 Name: <a href={url}>{title}</a>
+🎭 Type: {genres}
 🗓️ ʏᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
 🌟 ʀᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a> / 10
 ⏰ RunTime: {runtime} Minutes
