@@ -220,11 +220,10 @@ IMDb Data:
 
 🎬 Name: <a href={url}>{title}</a>
 🎭 Type: {genres}
-🗓️ ʏᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
-🌟 ʀᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a> / 10
-⏰ RunTime: {runtime} Minutes
+🗓️ Year: <a href={url}/releaseinfo>{year}</a>
+🌟 Rate: <a href={url}/ratings>{rating}</a> / 10
 
-👩🏻‍💻 ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : {message.from_user.mention}</b>"""
+🎊 𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝑩𝒚 : {message.from_user.mention}</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
