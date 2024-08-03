@@ -214,11 +214,11 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
  ⚙️ sɪᴢᴇ: {file_size}</b>""" 
 
     IMDB_TEMPLATE_TXT = """
-<b>Qᴜᴇʀʏ <code>{qurey}</code>
+<b>👁  Result For: <code>{qurey}</code>
 
 IMDb Data:
 
-<b>📽️ ᴛɪᴛʟᴇ </b>: <a href={url}>{title}</a>
+📽️ ᴛɪᴛʟᴇ : <a href={url}>{title}</a>
 🎭 ɢᴇɴʀᴇs: {genres}
 🗓️ ʏᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
 🌟 ʀᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a> / 10
