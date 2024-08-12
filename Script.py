@@ -14,14 +14,14 @@ class script(object):
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """<b>‣ 📃Mʏ Nᴀᴍᴇ : <a href=https://t.me/hdhindibackup>ᵗʰᵃˡᵃᵖᵃᵗʰʸ ᶠⁱˡᵗᵉʳ ᵇᵒᵗ 🇮🇳</a>
-‣ 🕺Bᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
-‣ 👦Cʀᴇᴀᴛᴏʀ : <a href='https://t.me/rolexHxd'>ɴᴏᴛʜɪɴɢ ʙʀᴏ 🇮🇳</a> 
-‣ 📚Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
-‣ 🗣️Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
-‣ ♻️Dᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
-‣ 📡Hᴏsᴛᴇᴅ ᴏɴ :  <a href='https://heroku.com'>Heroku</a> 
-‣ 🗒️Vᴇʀsɪᴏɴ : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
+    ABOUT_TXT = """<b>📃 Mʏ Nᴀᴍᴇ : <a href=https://t.me/hdhindibackup>ᵗʰᵃˡᵃᵖᵃᵗʰʸ ᶠⁱˡᵗᵉʳ ᵇᵒᵗ 🇮🇳</a>
+🕺 Bᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
+👦 Cʀᴇᴀᴛᴏʀ : <a href='https://t.me/rolexHxd'>ɴᴏᴛʜɪɴɢ ʙʀᴏ 🇮🇳</a> 
+📚 Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
+🗣️ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
+♻️ Dᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
+📡 Hᴏsᴛᴇᴅ ᴏɴ :  <a href='https://heroku.com'>Heroku</a> 
+🚦 Vᴇʀsɪᴏɴ : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
 
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
