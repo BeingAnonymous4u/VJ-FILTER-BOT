@@ -14,7 +14,7 @@ class script(object):
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """<b>😎 Mʏ Nᴀᴍᴇ : <a href=https://t.me/hdhindibackup>ɪᴍᴅʙғɪʟᴇs ʙᴏᴛ 🇮🇳</a>
+    ABOUT_TXT = """<b>🐣 Mʏ Nᴀᴍᴇ : <a href=https://t.me/hdhindibackup>ɪᴍᴅʙғɪʟᴇs 🇮🇳</a>
 🕺 Bᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
 👦 Cʀᴇᴀᴛᴏʀ : <a href='https://t.me/rolexHxd'>ɴᴏᴛʜɪɴɢ ʙʀᴏ 🇮🇳</a> 
 📚 Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
