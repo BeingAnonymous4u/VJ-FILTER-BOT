@@ -14,7 +14,7 @@ class script(object):
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """<b>🐣 Mʏ Nᴀᴍᴇ : <a href=https://t.me/hdhindibackup>ɪᴍᴅʙғɪʟᴇs 🇮🇳</a>
+    ABOUT_TXT = """<b>📃 Mʏ Nᴀᴍᴇ : <a href=https://t.me/hdhindibackup>ɪᴍᴅʙғɪʟᴇs 🇮🇳</a>
 🕺 Bᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
 👦 Cʀᴇᴀᴛᴏʀ : <a href='https://t.me/rolexHxd'>ɴᴏᴛʜɪɴɢ ʙʀᴏ 🇮🇳</a> 
 📚 Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
@@ -209,9 +209,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a href='https://t.me/hdhindibackup'>📝File Name: {file_name}</a>
+    CAPTION = """<b><a href='https://t.me/hdhindibackup'>🗂️ ɴᴀᴍᴇ: {file_name}</a>
 
- ⚙️ sɪᴢᴇ: {file_size}</b>""" 
+ 💾 sɪᴢᴇ: {file_size}</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 
