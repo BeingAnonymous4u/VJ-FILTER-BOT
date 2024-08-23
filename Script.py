@@ -209,9 +209,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a href='https://t.me/hdhindibackup'>❍ <i>ɴᴀᴍᴇ</i>: <code>{file_name}</code></a>
+    CAPTION = """<b><a href='https://t.me/hdhindibackup'>📑 <u>ɴᴀᴍᴇ</u>: <code>{file_name}</code></a>
 
- ❍ <i>sɪᴢᴇ</i>: {file_size}</b>""" 
+ ❍ <u>sɪᴢᴇ</u>: {file_size}</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 
