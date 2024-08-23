@@ -198,7 +198,7 @@ SERIES ➢ Sᴇʟᴇᴄᴛ "Sᴇᴀsᴏɴs"
 Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛᴏɴ ᴀɴᴅ Cʟɪᴄᴋ "Sᴇɴᴅ Aʟʟ" Tᴏ ɢᴇᴛ Aʟʟ Fɪʟᴇ Lɪɴᴋs ɪɴ ᴀ Sɪɴɢʟᴇ ᴄʟɪᴄᴋ"""
 
     SINFO = """
-🫣 Movie Venumna Join Panni Try Again Buttana Click Pannu😅"""
+🫣 For Movie Join First Then Click On Try Again Button 😅"""
 
     NORSLTS = """ 
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
@@ -209,9 +209,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a href='https://t.me/hdhindibackup'>❍ ɴᴀᴍᴇ: <code>{file_name}</code></a>
+    CAPTION = """<b><a href='https://t.me/hdhindibackup'>❍ <i>ɴᴀᴍᴇ</i>: <code>{file_name}</code></a>
 
- ❍ sɪᴢᴇ: {file_size}</b>""" 
+ ❍ <i>sɪᴢᴇ</i>: {file_size}</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 
