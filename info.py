@@ -121,9 +121,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "https://silky-cloris-anonameous-a9f2befe.koyeb.app/".format(FQDN)
+    URL = "https://political-nerti-vjnewrepostiry-3910f8fd.koyeb.app/".format(FQDN)
 else:
-    URL = "https://silky-cloris-anonameous-a9f2befe.koyeb.app/".format(FQDN)
+    URL = "https://political-nerti-vjnewrepostiry-3910f8fd.koyeb.app/".format(FQDN)
 
 
 
