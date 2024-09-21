@@ -220,7 +220,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
     IMDB_TEMPLATE_TXT = """
 
 
-<b>👁  Result For: <code>{qurey}</code>
+<b>🔎 Result For: <code>{qurey}</code>
 
 🎬 Name: <a href={url}>{title}</a>
 🎭 Type: {genres}
