@@ -41,11 +41,11 @@ auth_channel = environ.get('-1002021217229')
 auth_grp = environ.get('AUTH_GROUP')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
-support_chat_id = environ.get('SUPPORT_CHAT_ID', 'https://t.me/+ef_l9L7eBEU5ODJl')
-reqst_channel = environ.get('REQST_CHANNEL_ID', 'https://t.me/+EfuH_JBJBVk0OThl')
+support_chat_id = environ.get('SUPPORT_CHAT_ID', '-1002002609918')
+reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002151832425')
 REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
-NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
+NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", True))
 
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://shubhajitdas065:shubhajitdas065@cluster0.sizmvm1.mongodb.net/?retryWrites=true&w=majority")
@@ -105,8 +105,8 @@ else:
     ON_HEROKU = False
 BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', '0.0.0.0'))
 FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU or getenv('FQDN') else APP_NAME+'.herokuapp.com'
-URL = "https://silky-cloris-anonameous-a9f2befe.koyeb.app".format(FQDN) if ON_HEROKU or NO_PORT else \
-    "https://silky-cloris-anonameous-a9f2befe.koyeb.app/".format(FQDN, PORT)
+URL = "https://political-nerti-vjnewrepostiry-3910f8fd.koyeb.app".format(FQDN) if ON_HEROKU or NO_PORT else \
+    "https://political-nerti-vjnewrepostiry-3910f8fd.koyeb.app".format(FQDN, PORT)
 SLEEP_THRESHOLD = int(environ.get('SLEEP_THRESHOLD', '60'))
 WORKERS = int(environ.get('WORKERS', '4'))
 SESSION_NAME = str(environ.get('SESSION_NAME', 'LazyBot'))
