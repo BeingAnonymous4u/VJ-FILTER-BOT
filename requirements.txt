@@ -11,6 +11,8 @@ shortzy
 datetime 
 pytz 
 aiohttp
+fuzzywuzzy
+python-Levenshtein
 
 #---master---# 
 #Telethroid==0.0.10 
