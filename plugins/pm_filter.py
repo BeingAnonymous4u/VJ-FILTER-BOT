@@ -1991,10 +1991,6 @@ async def auto_filter(client, msg, spoll=False):
                     await ai_sts.delete()
                     return await advantage_spell_chok(client, message)
         else:
-                    # if NO_RESULTS_MSG:
-                    #     await client.send_message(chat_id=LOG_CHANNEL, text=(script.NORSLTS.format(reqstr.id, reqstr.mention, search)))
-                    return
-        else:
             return
     else:
         message = msg.message.reply_to_message  # msg will be callback query
