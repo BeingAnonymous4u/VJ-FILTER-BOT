@@ -1977,8 +1977,20 @@ async def auto_filter(client, msg, spoll=False):
             if not files:
                 await m.delete()
                 if settings["spell_check"]:
-                    return await advantage_spell_chok(client, msg)
-                else:
+                  #  st=await message.reply_sticker(sticker="CAACAgQAAxkBAAEq2R9mipkiW9ACyj7oQXznwKTPHqNCXQACkBUAA3mRUZGx4GwLX9XCHgQ")
+                    ai_sts = await message.reply_text('ᴄʜᴇᴄᴋɪɴɢ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ...')
+                    is_misspelled = await ai_spell_check(chat_id = message.chat.id,wrong_name=search)
+                    if is_misspelled:
+                    #    await ai_sts.edit(f'<b>Ai Suggested <code>{is_misspelled}</code>\nSo Im Searching for <code>{is_misspelled}</code></b>')
+                        await asyncio.sleep(2)
+                        message.text = is_misspelled
+                   #     await st.delete()
+                        await ai_sts.delete()
+                        return await auto_filter(client, message)
+              #      await st.delete()
+                    await ai_sts.delete()
+                    return await advantage_spell_chok(client, message)
+        else:
                     # if NO_RESULTS_MSG:
                     #     await client.send_message(chat_id=LOG_CHANNEL, text=(script.NORSLTS.format(reqstr.id, reqstr.mention, search)))
                     return
