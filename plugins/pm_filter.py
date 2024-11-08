@@ -138,7 +138,7 @@ async def next_page(bot, query):
             ]
         )
         btn.insert(0, [
-            InlineKeyboardButton("🤔 𝗛𝗼𝘄 𝗧𝗼 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 🤔", callback_data=f"sendfiles#{key}")
+            InlineKeyboardButton("⚜️ Jᴏɪɴ Mᴀɪɴ Cʜᴀɴɴᴇʟ ⚜️", url=f"https://t.me/+Riemv1yReAAxN2I9")
         ])
     else:
         btn = []
@@ -150,7 +150,7 @@ async def next_page(bot, query):
             ]
         )
         btn.insert(0, [
-            InlineKeyboardButton("🤔 𝗛𝗼𝘄 𝗧𝗼 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 🤔", callback_data=f"sendfiles#{key}")
+            InlineKeyboardButton("⚜️ Jᴏɪɴ Mᴀɪɴ Cʜᴀɴɴᴇʟ ⚜️", url=f"https://t.me/+Riemv1yReAAxN2I9")
         ])
     try:
         if settings['max_btn']:
@@ -365,8 +365,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
             ]
         )
         btn.insert(0, [
-            InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
-            InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
+            InlineKeyboardButton("⚜️ Jᴏɪɴ Mᴀɪɴ Cʜᴀɴɴᴇʟ ⚜️", url=f"https://t.me/+Riemv1yReAAxN2I9")
         ])
     else:
         btn = []
@@ -378,8 +377,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
             ]
         )
         btn.insert(0, [
-            InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
-            InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
+            InlineKeyboardButton("⚜️ Jᴏɪɴ Mᴀɪɴ Cʜᴀɴɴᴇʟ ⚜️", url=f"https://t.me/+Riemv1yReAAxN2I9")
         ])
 
     if offset != "":
@@ -557,8 +555,7 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
             ]
         )
         btn.insert(0, [
-            InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
-            InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
+            InlineKeyboardButton("⚜️ Jᴏɪɴ Mᴀɪɴ Cʜᴀɴɴᴇʟ ⚜️", url=f"https://t.me/+Riemv1yReAAxN2I9")
         ])
 
     offset = 0
